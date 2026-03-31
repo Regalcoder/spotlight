@@ -1,0 +1,19 @@
+<svg class="hero-record" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="300" cy="300" r="295" stroke="#7c3aed" stroke-width="2"/>
+    <circle cx="300" cy="300" r="250" stroke="#7c3aed" stroke-width="1"/>
+    <circle cx="300" cy="300" r="200" stroke="#5b21b6" stroke-width="1.5"/>
+    <circle cx="300" cy="300" r="160" stroke="#7c3aed" stroke-width="1"/>
+    <circle cx="300" cy="300" r="120" stroke="#5b21b6" stroke-width="2"/>
+    <circle cx="300" cy="300" r="80"  stroke="#7c3aed" stroke-width="1"/>
+    <circle cx="300" cy="300" r="40"  stroke="#a78bfa" stroke-width="3"/>
+    <circle cx="300" cy="300" r="12"  fill="#7c3aed"/>
+    <!-- Spokes -->
+    <line x1="300" y1="5"   x2="300" y2="90"  stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+    <line x1="300" y1="510" x2="300" y2="595" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+    <line x1="5"   y1="300" x2="90"  y2="300" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+    <line x1="510" y1="300" x2="595" y2="300" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+    <line x1="80"  y1="80"  x2="144" y2="144" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+    <line x1="456" y1="456" x2="520" y2="520" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+    <line x1="80"  y1="520" x2="144" y2="456" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+    <line x1="456" y1="144" x2="520" y2="80"  stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+  </svg>
