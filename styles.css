@@ -207,7 +207,7 @@
   .hero-record {
     position: absolute;
     right: 0%;
-    top: 60%;
+    top: 70%;
     transform: translateY(-50%);
     width: 350px;
     height: 350px;
@@ -218,7 +218,7 @@
   .hero-record2 {
     position: absolute;
     left: 0%;
-    top: 60%;
+    top: 70%;
     transform: translateY(-50%);
     width: 350px;
     height: 350px;
